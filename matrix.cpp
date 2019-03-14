@@ -18,7 +18,7 @@ int main(void)
 
 	system("pause");
 	return 0;
-}
+} //TEST
 
 void random_walk(int(*a)[COLS], int rows) /// this function assign values to 2d array
 {
